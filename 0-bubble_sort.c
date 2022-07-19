@@ -12,13 +12,16 @@ void bubble_sort(int *array, size_t size)
 {
 	size_t i, j;
 
+	/* Make pass */
 	for (i = 0; i < size - 1; i++)
 	{
 		int flag = 0;
 		size_t new_size = size - 1 - i;
 
+		/* Compare the adjacent elements */
 		for (j = 0; j < new_size; j++)
 		{
+			/* Shift the higher integer to far right by swapping */
 			if (array[j] > array[j + 1])
 			{
 				int tmp = array[j];
@@ -30,8 +33,8 @@ void bubble_sort(int *array, size_t size)
 				print_array(array, size);
 			}
 		}
-		/*print_array(array, size); */
 
+		/* Check if subsequent pass is necessary */
 		if (flag == 0)
 			break;
 	}
