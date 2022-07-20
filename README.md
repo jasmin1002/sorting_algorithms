@@ -2,6 +2,15 @@
 **Note:** The Big O Notation for this project is only concerned about Time Complexity of a given sorting algorithm.
 Space Complexity is not really focused on.
 
+Prototypes for functions written in this project:
+
+| File                       | Prototype                             	      |
+| -------------------------- | --------------------------------------- 	      |
+| `0-bubble_sort.c`          | `void bubble_sort(int *array, size_t size);`   |
+| `1-insertion_sort_list.c`  | `void insertion_sort_list(listint_t **list);`  |
+| `2-selection_sort.c`       | `void selection_sort(int *array, size_t size);`|
+| `3-quick_sort.c`           | `void quick_sort(int *array, size_t size);`    |
+
 # Learning Objectives:
 	* At least four different sorting algorithms
 	* What is the Big O notation, and how to evaluate the time complexity of an algorithm
