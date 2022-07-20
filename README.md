@@ -48,29 +48,6 @@ Prototypes for functions written in this project:
 	* in the worst case
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Contributors:
-* [Olalekan JIMOH] *Initial work* - [Olalekan JIMOH](https://github.com/jasmin1002)
-* [Emmanuel Adebayo] *Initial work* - [AdebayoEmmanuel](https://github.com/AdebayoEmmanuel)
+* [Olalekan JIMOH] - [Olalekan JIMOH](https://github.com/jasmin1002)
+* [Emmanuel Adebayo] - [AdebayoEmmanuel](https://github.com/AdebayoEmmanuel)
