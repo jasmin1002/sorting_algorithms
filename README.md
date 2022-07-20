@@ -9,6 +9,10 @@ Space Complexity is not really focused on.
 	* What is a stable sorting algorithm
 
 
+## Tasks :page_with_curl:
+* **0. Bubble sort:**
+	* [0-bubble_sort.c](./0-bubble_sort.c): a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm
+
 
 
 
