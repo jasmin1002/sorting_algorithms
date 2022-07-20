@@ -31,6 +31,12 @@ Space Complexity is not really focused on.
 	* in the average case
 	* in the worst case
 
+* **3. Quick sort:**
+	* [3-quick_sort.c](./3-quick_sort.c): a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm
+	* [3-O](./3-O): the big O notations of the time complexity of the Quick sort algorithm, with 1 notation per line:
+	* in the best case
+	* in the average case
+	* in the worst case
 
 
 
