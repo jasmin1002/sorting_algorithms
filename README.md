@@ -24,8 +24,12 @@ Space Complexity is not really focused on.
 	* in the average case
 	* in the worst case
 
-* **2. Selection sort:***
-	* [2-selection_sort.c](./2-selection_sort.c)
+* **2. Selection sort:**
+	* [2-selection_sort.c](./2-selection_sort.c): a function that sorts an array of integers in ascending order using the [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) algorithm
+	* [2-O](./2-O): the big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line:
+	* in the best case
+	* in the average case
+	* in the worst case
 
 
 
