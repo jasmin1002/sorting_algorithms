@@ -49,5 +49,5 @@ Prototypes for functions written in this project:
 
 
 ## Contributors:
-* [Olalekan JIMOH] - [Olalekan JIMOH](https://github.com/jasmin1002)
-* [Emmanuel Adebayo] - [AdebayoEmmanuel](https://github.com/AdebayoEmmanuel)
+* [Olalekan JIMOH](https://github.com/jasmin1002)
+* [Adebayo Emmanuel](https://github.com/AdebayoEmmanuel)
