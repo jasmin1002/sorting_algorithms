@@ -17,8 +17,12 @@ Space Complexity is not really focused on.
 	* in the average case
 	* in the worst case
 
-
-
+* **1. Insertion sort:**
+	* [1-insertion_sort_list.c](./1-insertion_sort_list.c): a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) algorithm
+	* [1-O](./1-O):  the big O notations of the time complexity of the Insertion sort algorithm, with 1 notation per line:
+	* in the best case
+	* in the average case
+	* in the worst case
 
 
 
