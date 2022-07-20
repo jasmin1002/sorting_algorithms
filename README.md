@@ -24,7 +24,8 @@ Space Complexity is not really focused on.
 	* in the average case
 	* in the worst case
 
-
+* **2. Selection sort:***
+	* [2-selection_sort.c](./2-selection_sort.c)
 
 
 
