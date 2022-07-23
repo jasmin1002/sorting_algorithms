@@ -28,6 +28,7 @@ void quick_sort(int *, size_t);
 void QuickSort(int *, int, int, size_t);
 int partition(int *, int, int, size_t);
 void shell_sort(int *, size_t);
+void cocktail_sort_list(listint_t **);
 
 
 #endif
